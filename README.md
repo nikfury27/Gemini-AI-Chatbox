@@ -1,5 +1,6 @@
+ #Gemini Chat UI
 
-# Gemini Chat UI
+<a href="https://gemini-ai-chatbox.netlify.app/">Live Demo!</a>
 
 A simple, responsive chat interface for interacting with Google's **Gemini API** (1.5 Flash model).
 Built using **HTML**, **CSS**, and **JavaScript** for a smooth and modern user experience.
