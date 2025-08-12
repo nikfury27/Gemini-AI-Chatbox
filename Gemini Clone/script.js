@@ -3,7 +3,8 @@
         const sendButton = document.getElementById('send-button');
         
 
-        const API_KEY = "AIzaSyBPxIUWGuwyl-qjWUwvRS5uxwlvW0HiQOg"; 
+        const API_KEY = ""; 
+        // Enter your api key here
 
         function addMessage(message, sender) {
             const messageWrapper = document.createElement('div');
@@ -136,3 +137,4 @@
                 initialMessage.style.transform = 'translateY(0)';
             }, 100);
         });
+
