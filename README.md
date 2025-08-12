@@ -35,7 +35,7 @@ Built using **HTML**, **CSS**, and **JavaScript** for a smooth and modern user e
 
 ```bash
 git clone https://github.com/nikfury27/Gemini-AI-Chatbox/
-cd gemini-chat-ui
+cd Gemini-AI-Chatbox
 ```
 
 ---
