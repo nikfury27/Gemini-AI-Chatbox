@@ -1,4 +1,4 @@
- #Gemini Chat UI
+# Gemini Chat UI
 
 <a href="https://gemini-ai-chatbox.netlify.app/">Live Demo!</a>
 
